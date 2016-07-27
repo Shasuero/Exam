@@ -56,3 +56,5 @@ lean publish
 * [JavaScript SDK API](https://leancloud.cn/api-docs/javascript/index.html)
 * [命令行工具详解](https://leancloud.cn/docs/cloud_code_commandline.html)
 * [LeanEngine FAQ](https://leancloud.cn/docs/cloud_code_faq.html)
+# Exam
+APJ Exam in LeanCloud project.
